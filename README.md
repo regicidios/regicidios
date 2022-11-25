@@ -5,3 +5,4 @@
 
 ## Interests
 Besides computer programming, I am interested in skateboarding and literature. Feel free to approach me with a discussion on either and I will gladly respond and/or give my take.
+
