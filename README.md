@@ -6,3 +6,5 @@
 ## Interests
 Besides computer programming, I am interested in skateboarding and literature. Feel free to approach me with a discussion on either and I will gladly respond and/or give my take.
 
+<br><p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reg1cide&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</p>
