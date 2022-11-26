@@ -1,5 +1,5 @@
 ## About Me
-- I am relatively new to programming and am in the process of exploring various areas of information technology and computer science.<br>
+- I am relatively new to programming and am in the process of exploring various areas of information technology and computer science. The bulk of my projects will be Java/Python-based, with a few exceptions; I am trying to slowly learn both, but I will not hesitate to use/learn another language if it means greatly simplifying a task at hand.<br>
 - My hope is that someday my projects may be of use to other people.
 
 ## Interests
