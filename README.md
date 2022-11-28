@@ -7,4 +7,4 @@ Besides computer programming, I am interested in skateboarding and literature. F
 
 ### Soy muy haragán para escribir detalles de cada sección en español así que tendrán que usar traductor xd
 <br><p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reg1cide&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regicidios&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</p>
