@@ -1,5 +1,5 @@
 <h3 align="center">
-Tengo demasiada pereza para escribir algo grandioso.
+Tengo demasiada pereza para escribir algo grandioso
 </h3>
 
 <br><p align="center">
