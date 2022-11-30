@@ -1,5 +1,5 @@
 <h3 align="center">
-Tengo demasiada pereza para escribir algo grandioso
+No sé qué escribir imagina una introducción wena
 </h3>
 
 <br><p align="center">
