@@ -5,4 +5,4 @@
 <br><p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regicidios&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)</p>
 <br>
-### Visit my [website](https://regicidios.github.io/): (WIP, looks horrible on mobile devices, working on optimizing it for mobile displays as well)
+### Visit my [website](https://regicidios.github.io/): (WIP; looks horrible on mobile devices, working on optimizing it for mobile displays as well)
